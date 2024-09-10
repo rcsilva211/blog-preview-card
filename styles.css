@@ -109,7 +109,7 @@ h2,p{
     border: 2px solid hsl(0, 0%, 100%);
 }
 
-.author-container h3{
+.author-container h2{
     margin: 0;
     font-size: 15px;
     font-weight: 700;
