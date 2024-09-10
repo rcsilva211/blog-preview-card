@@ -22,7 +22,7 @@ main{
     text-align: center;
     padding: 15px;
     max-width: 370px;
-    height: 600px;
+    height: auto;
     background-color: hsl(0, 0%, 100%);
     border-radius: 10px;
     -webkit-box-shadow: 10px 10px 0px 0px rgba(0,0,0,1);
